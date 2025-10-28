@@ -1,0 +1,12 @@
+{
+  "name": "lrm-instant-crafting",
+  "version": "0.1.0",
+  "title": "LRM Instant Crafting",
+  "author": "iOFFLINE",
+  "factorio_version": "2.0",
+  "dependencies": ["base >= 2.0"],
+  "description": "Reduces crafting interval to 1–50ms. Configurable speed for instant crafting.",
+  "homepage": "https://mods.factorio.com/user/iOFFLINE",
+  "license": "MIT",
+  "thumbnail": "thumbnail.png"
+}
